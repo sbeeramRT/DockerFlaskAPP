@@ -35,7 +35,7 @@ substitutions:
     #GCP Specific configuration. Please DON'T change anything
     _PROJECT: runml-370811
     _ZONE: us-central1-a
-    _GCE_VM: runml-dev-vm
+    _GCE_VM: demo-test-vm
     _DIRECTORY: backend 
     
     #Repository Specific configuration. DevOps can change this settings
