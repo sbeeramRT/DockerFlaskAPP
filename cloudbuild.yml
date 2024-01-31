@@ -14,7 +14,7 @@ steps:
             'build',
             '-t', 'gcr.io/${_PROJECT}/${_CONTAINERNAME}:${_VERSION}',
             '--cache-from', 'gcr.io/${_PROJECT}/${_CONTAINERNAME}:${_VERSION}',
-            './services/flask_app/'
+            './services/demo/'
         ]
 
 #Push the image  
