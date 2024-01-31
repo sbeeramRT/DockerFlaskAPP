@@ -39,8 +39,8 @@ substitutions:
     _DIRECTORY: backend 
     
     #Repository Specific configuration. DevOps can change this settings
-    _DEPLOYMENTNAME: rt_demo_server
-    _CONTAINERNAME: rt_demo_server 
+    _DEPLOYMENTNAME: flask_app
+    _CONTAINERNAME: flask_app
     _REPO_NAME: github_sbeeramrt_dockerflaskapp
     
     # Developers ONLY change
