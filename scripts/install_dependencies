@@ -1,2 +1,3 @@
 #!bin/bash
-yum intsall -y http
+yum intsall -y httpd
+sudo service codedeploy-agent status
