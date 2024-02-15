@@ -1,2 +1,2 @@
 #!bin/bash
-yum intsall -y http
+yum intsall -y httpd
